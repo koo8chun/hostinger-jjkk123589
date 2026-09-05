@@ -70,4 +70,12 @@ Hostinger 套餐名称、价格、机房与活动规则会变动。本仓库仅�
 
 ---
 
+## 仓库与页面
+
+- GitHub 仓库：https://github.com/koo8chun/hostinger-jjkk123589  
+  （仓库说明标题：**Hostinger优惠码jjkk123589**；GitHub 仓库名不能含中文，故技术名为 `hostinger-jjkk123589`）
+- GitHub Pages：https://koo8chun.github.io/hostinger-jjkk123589/
+
+---
+
 **Hostinger优惠码jjkk123589** · **Hostinger VPS优惠码** · **Hostinger服务器优惠码** · **Hostinger折扣码**
