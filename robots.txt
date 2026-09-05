@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koo8chun.github.io/hostinger-jjkk123589/sitemap.xml
