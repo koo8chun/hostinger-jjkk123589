@@ -5,7 +5,9 @@
 
 ## 网站入口（请打开 HTML 网页，不要打开 .md）
 
-**正式站点：** https://koo8chun.github.io/hostinger-jjkk123589/
+**正式站点（中文）：** https://koo8chun.github.io/hostinger-jjkk123589/
+
+**English：** https://koo8chun.github.io/hostinger-jjkk123589/en/
 
 本仓库的 GitHub Pages **只使用 HTML 页面**。请从下面进入：
 
